@@ -1,0 +1,8 @@
+../Drivers/STM32WLxx_HAL_Driver/Inc/stm32wlxx_ll_bus.h:449:22:LL_AHB2_GRP1_EnableClock	1
+../SubGHz_Phy/Target/radio_board_if.c:59:9:RBI_Init	1
+../SubGHz_Phy/Target/radio_board_if.c:106:9:RBI_DeInit	1
+../SubGHz_Phy/Target/radio_board_if.c:142:9:RBI_ConfigRFSwitch	5
+../SubGHz_Phy/Target/radio_board_if.c:205:9:RBI_GetTxConfig	1
+../SubGHz_Phy/Target/radio_board_if.c:231:9:RBI_IsTCXO	1
+../SubGHz_Phy/Target/radio_board_if.c:257:9:RBI_IsDCDC	1
+../SubGHz_Phy/Target/radio_board_if.c:283:9:RBI_GetRFOMaxPowerConfig	2
